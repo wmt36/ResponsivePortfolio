@@ -1,0 +1,11 @@
+body {
+    background-image: url('https://dc-mp7static.mlsdigital.net/images/st-croix-us-virgin-islands.jpg?08IQRyLVRt2LLDgDnHrDRm9cNgXi0qDv');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+  }
+form{
+    text-align: center;
+    opacity: .7;
+
+}

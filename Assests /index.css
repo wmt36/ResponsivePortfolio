@@ -1,0 +1,31 @@
+p {
+  text-indent: 50px;
+  text-align: center;
+  font-size: 20px;
+  color: white;
+  font-weight: 200px;
+}
+
+h1 {
+  text-align: center;
+  background-color: wheat;
+}
+
+h2 {
+  text-align: center;
+  background-color: black;
+  color: wheat;
+}
+img {
+  float: left;
+  width: 25%;
+  height: auto;
+  opacity: .9;
+}
+body {
+  background-image: url('https://uncommoncarib-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/St-Croix-USVI-2048x1364.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+
+}
